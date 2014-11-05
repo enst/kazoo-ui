@@ -13,6 +13,8 @@ pbxs_label: "PBX互联",
 pbxs_desc: "管理您的PBX连接",
 numbers_label: "号码管理",
 numbers_desc: "放号和号码管理",
+call_center_label: "呼叫中心",
+call_center_desc: "呼叫中心",
 there_were_errors: "表单有错误，请修正！", //all errors on the form
 OK: "确定",	//button OK confirm dialog
 CANCEL: "取消",	//button Cancel confirm dialog
