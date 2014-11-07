@@ -34,7 +34,7 @@
                         api_url: 'https://api.zswitch.net:8443/v1' //'https://api.zswitch.net:8443/v1'
                     }
                 },
-                available_apps: ['voip', 'cluster', 'userportal', 'accounts', 'developer', 'numbers', 'pbxs'],
+                available_apps: ['voip', 'cluster', 'userportal', 'accounts', 'developer', 'numbers', 'pbxs', 'call_center'],
                 default_api_url: 'https://api.zswitch.net:8443/v1' //'https://api.zswitch.net:8443/v1'
             },
             'reseller': {
@@ -55,7 +55,7 @@
                         api_url: 'https://api.zswitch.net:8443/v1' //'https://api.zswitch.net:8443/v1'
                     }
                 },
-                available_apps: ['voip', 'cluster', 'userportal', 'accounts', 'developer', 'numbers', 'pbxs'],
+                available_apps: ['voip', 'cluster', 'userportal', 'accounts', 'developer', 'numbers', 'pbxs', 'call_center'],
                 default_api_url: 'https://api.zswitch.net:8443/v1' //'https://api.zswitch.net:8443/v1'
             },
             'small_office': {
@@ -71,7 +71,7 @@
                         api_url: 'https://api.zswitch.net:8443/v1' //'https://api.zswitch.net:8443/v1'
                     }
                 },
-                available_apps: ['voip', 'cluster', 'userportal', 'accounts', 'developer', 'numbers', 'pbxs'],
+                available_apps: ['voip', 'cluster', 'userportal', 'accounts', 'developer', 'numbers', 'pbxs', 'call_center'],
                 default_api_url: 'https://api.zswitch.net:8443/v1'
             },
             'single_phone': {
@@ -87,7 +87,7 @@
                         api_url: 'https://api.zswitch.net:8443/v1' //'https://api.zswitch.net:8443/v1'
                     }
                 },
-                available_apps: ['voip', 'cluster', 'userportal', 'accounts', 'developer', 'numbers', 'pbxs'],
+                available_apps: ['voip', 'cluster', 'userportal', 'accounts', 'developer', 'numbers', 'pbxs', 'call_center'],
                 default_api_url: 'https://api.zswitch.net:8443/v1' //'https://api.zswitch.net:8443/v1'
             },
             'api_developer': {
@@ -103,7 +103,7 @@
                         api_url: 'https://api.zswitch.net:8443/v1' //'https://api.zswitch.net:8443/v1'
                     }
                 },
-                available_apps: ['voip', 'cluster', 'userportal', 'accounts', 'developer', 'numbers', 'pbxs'],
+                available_apps: ['voip', 'cluster', 'userportal', 'accounts', 'developer', 'numbers', 'pbxs', 'call_center'],
                 default_api_url: 'https://api.zswitch.net:8443/v1' //'https://api.zswitch.net:8443/v1'
             },
             'voip_minutes': {
@@ -119,7 +119,7 @@
                         api_url: 'https://api.zswitch.net:8443/v1' //'https://api.zswitch.net:8443/v1'
                     }
                 },
-                available_apps: ['voip', 'cluster', 'userportal', 'accounts', 'developer', 'numbers', 'pbxs'],
+                available_apps: ['voip', 'cluster', 'userportal', 'accounts', 'developer', 'numbers', 'pbxs', 'call_center'],
                 default_api_url: 'https://api.zswitch.net:8443/v1' //'https://api.zswitch.net:8443/v1'
             }
         },
